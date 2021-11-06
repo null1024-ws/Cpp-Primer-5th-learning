@@ -1,4 +1,4 @@
-# C++ Primer Plus 第六版中文版原书代码和习题解答
+# C++ Primer Plus 第六版中文版学习记录
 
 ![C++ Primer Plus](https://static.fungenomics.com/images/2021/07/c-primer-plus6.jpg)
 
