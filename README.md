@@ -1,6 +1,6 @@
 # C++ Primer Plus 第六版中文版学习记录
 
-![C++ Primer Plus](https://static.fungenomics.com/images/2021/07/c-primer-plus6.jpg)
+
 
 本项目是《C++ Primer Plus（第6版）中文版》的学习仓库，包括课后习题题解代码和C++笔记
 
