@@ -1,1 +1,20 @@
+# 第 2 章 《开始学习C++》 编程练习题之我解
 
+## 2.1
+
+**题：** 编写一个C++程序，它显示您的姓名和地址。
+
+**解：**
+
+```Cpp
+#include <iostream>
+
+int main() {
+
+    using namespace std;
+
+    cout << "Hi there, I'm Shujia Huang from Shenzhen, Guangdong, China" << endl;
+    return 0;
+}
+
+```
