@@ -1,4 +1,4 @@
-# C++ Primer Plus 第六版中文版学习记录
+# C++ Primer Plus 第六版中文版学习笔记
 
 
 
