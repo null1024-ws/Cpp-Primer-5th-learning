@@ -9,7 +9,7 @@
 
 
 ```bash
-链接：链接：https://pan.baidu.com/s/1-puRoMyJ9knDenkQpE7prQ?pwd=1024 
+链接：https://pan.baidu.com/s/1-puRoMyJ9knDenkQpE7prQ?pwd=1024 
 提取码：1024 
 
 ```
